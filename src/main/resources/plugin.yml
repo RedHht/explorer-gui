@@ -1,0 +1,17 @@
+name: explorergui
+version: '${project.version}'
+main: com.redhht.ExplorerGui
+api-version: '1.18'
+
+commands:
+  tpamenu:
+    description: GUI de explorador
+    usage: /<command>
+  homesmenu:
+    description: GUI de homes
+    usage: /<command>
+
+depend: [CMI]
+
+softdepend:
+  - Citizens
