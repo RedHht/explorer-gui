@@ -1,9 +1,0 @@
-tpacost: 5000.0
-homecost: 2000.0
-
-homelore:
-    -  "§7",
-    -  "§eHaz clic para solicitar",
-    -  "§eteletransportarte.",
-    -  "§7",
-    -  "§7Costo: §6$§e %homecost%"
